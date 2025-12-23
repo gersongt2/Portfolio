@@ -15,4 +15,3 @@ export const LinksP = () =>{
     )
 }
 
-export default LinksP;

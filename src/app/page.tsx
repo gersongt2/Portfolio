@@ -1,6 +1,6 @@
-import Contact from "@/components/Contact";
-import LinksP from "@/components/LinksP";
-import Text from "@/components/Text";
+import {Contact} from "@/components/Contact";
+import {LinksP} from "@/components/LinksP";
+import {Text} from "@/components/Text";
 
 export const page = () =>{
 
