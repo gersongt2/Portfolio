@@ -8,9 +8,9 @@ export const Contact=()=>{
                 <div className="w-full h-full bg-amber-500"></div>
             </div>
 
-            <a className="" href="">GitHub</a>
-            <a className="" href="">LinkedIn</a>
-            <a className="" href="">Gmail</a>
+            <a className="" href="https://github.com/gersongt2" target='_blank'>GitHub</a>
+            <a className="" href="https://www.linkedin.com/in/gerson-silva-carneiro-6856ab21b/" target="_blank">LinkedIn</a>
+            <a className="" href="mailto:gersonsilva0387@gmail.com" target="_blank">Gmail</a>
             
         </div>
         
