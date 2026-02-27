@@ -2,10 +2,10 @@ export const Contact=()=>{
     return(
     <div>
 
-        <div className="grid grid-cols-2 grid-rows-4 w-full gap-2 ">
+        <div className="grid grid-cols-2 grid-rows-4 w-full gap-2  text-black">
 
-            <div className="w-16 h-20 row-span-3" >
-                <div className="w-full h-full bg-amber-500"></div>
+            <div className="w-32 h-36 row-span-3" >
+                <div className="w-full h-full bg-[url('/img/photo.jpg')] rounded-full bg-cover bg-center"></div>
             </div>
 
             <a className="" href="https://github.com/gersongt2" target='_blank'>GitHub</a>
